@@ -27,7 +27,7 @@ prometheus-fastapi-instrumentator==6.1.0
 python-json-logger==2.0.7
 
 # Security
-cryptography==42.0.2
+cryptography==44.0.1
 
 # Utilities
 aiofiles==23.2.1
